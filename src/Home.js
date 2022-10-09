@@ -7,6 +7,18 @@ function Home() {
     <div className="home">
       <Nav />
         Home
+        <h1>TEST</h1>
+        <h1>TEST</h1>
+        <h1>TEST</h1>
+        <h1>TEST</h1>
+        <h1>TEST</h1>
+        <h1>TEST</h1>
+        <h1>TEST</h1>
+        <h1>TEST</h1>
+        <h1>TEST</h1>
+        <h1>TEST</h1>
+        <h1>TEST</h1>
+        <h1>TEST</h1>
     </div>
   )
 }
